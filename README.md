@@ -70,8 +70,6 @@ A machine learning project that predicts CUSTOMER CHURN using a **Random Forest 
 | Cross Validation Accuracy | **77.94%** |
 | Cross Validation Recall | **73.35%** |
 
-> Replace the above values with your final model results from the notebook.
-
 ---
 
 ## Customer Segments
